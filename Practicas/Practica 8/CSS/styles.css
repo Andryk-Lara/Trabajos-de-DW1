@@ -1,0 +1,103 @@
+
+.b1{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b1:hover {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    color: white;
+}
+.b1:active {
+    background-color: gray;
+    border: 1px solid gray;
+    color: white;
+}
+.b2 {
+    color: black;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+    left: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b2:hover {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+.b2:active {
+    background-color: gray;
+    border: 1px solid gray;
+    color: white;
+}
+.b3 {
+    color: black;
+    background-color: #F0F0F0;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: 1px solid #F0F0F0;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 60px;
+    left: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+}    
+.b3:hover {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+}
+.b3:active {
+    background-color: gray;
+    border: 1px solid gray;
+    color: white;
+}
+.b4 {
+    color: black;
+    background-color: #0074DA;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: 1px solid #0074DA;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    top: 90px;
+    left: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+}    
+.b4:hover {
+    background-color: #57b0ff;
+    border: 1px solid #57b0ff;
+    color: white;
+}
+.b4:active {
+    background-color: #616066;
+    border: 1px solid #616066;
+    color: white;
+}
